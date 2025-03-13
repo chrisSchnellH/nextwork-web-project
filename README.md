@@ -1,0 +1,1 @@
+This project is used for an introduction to creating and deploying a Java-based web app using AWS, especially their CI/CD tools.
